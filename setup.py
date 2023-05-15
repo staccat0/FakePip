@@ -18,7 +18,7 @@ class CustomInstall(install):
 setup(name='FakePip',
       version='0.0.1',
       description='This will exploit a sudoer able to /usr/bin/pip install *',
-      url='https://github.com/0x00-0x00/fakepip',
+      url='https://github.com/staccat0/fakepip',
       author='zc00l',
       author_email='andre.marques@esecurity.com.br',
       license='MIT',
